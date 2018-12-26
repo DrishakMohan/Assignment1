@@ -1,3 +1,8 @@
+"""
+Name: Drishak Mohan
+University: University Of Toronto
+"""
+
 import math
 g = 9.81
 pi = math.pi
